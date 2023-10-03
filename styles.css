@@ -1,0 +1,45 @@
+body{
+    background: url(img\ fundobolodepoti.jpg);/*colocar fundo na imagem*/
+    background-size: 100%;
+    background-position: bottom;
+    font-size: 15PX;
+    font-style: oblique;
+}
+h1 h3 h6{
+    color:black; /*coloca cor em h1..*/
+    text-align: center; /*centraliza o texto*/
+    margin-top: 1%;
+    
+}
+
+h4 p{
+    color: black;
+    font-size: 13px;
+    text-align-last: left;
+}
+img{
+    font-variant-alternates: styleset(30px); /*posicionar a esquerda*/
+    margin-left: 30px;
+    width: 300px;
+    right: 250px;
+    float: none;
+}
+div{
+    color:wheat;
+    border: 5px; 
+    bottom: 30px;
+    width: 300px;
+    background-color:red
+
+}
+.midia{
+    width: 100%;
+}
+#bloc{
+    margin-top: 1%;
+    margin-bottom: 1%;
+    background-size:60%;
+    font-size: 25px;
+
+}
+
